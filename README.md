@@ -1,5 +1,5 @@
 # nine-keyboard-case
-A slight remix of the BSAG nine keyboard bottom case 
+A slight remix of the BSAG nine keyboard bottom case https://github.com/bsag/nine-nano
 
 Removed the bottom grooves and replaced with 1.75mm deep 9mm circumference indentations for adding rubber bumpons with less of a height increase.
 
